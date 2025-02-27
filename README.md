@@ -27,8 +27,12 @@ XChart is a powerful radar chart component for App Inventor that allows you to c
 <br><br>
 ## Screen shot 
    ![Screenshot_2025-02-27-14-35-43-965_appinventor.ai_Techhamara91.xchart.jpg](https://github.com/user-attachments/assets/8b0ef5bb-8e3d-4df9-82c3-2a59c9fc8675)
+   ![image](https://github.com/user-attachments/assets/fde5d0f4-0b05-400c-8f72-fc0aacdf57ed)
+![image](https://github.com/user-attachments/assets/cd27ae64-cba7-443c-b3e5-9f5e107bf52c)
+![image](https://github.com/user-attachments/assets/9cd9a79c-5565-4edb-9ee6-f0360da72001)
 
-## Demo Soon
+
+## Demo
 
 ![10d0f4fe-6002-4d66-bc95-75324e0bca4f.gif](https://github.com/user-attachments/assets/58795a00-13cf-4707-aa98-674432478590)
 
