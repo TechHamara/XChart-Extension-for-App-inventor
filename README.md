@@ -9,15 +9,24 @@ XChart is a powerful radar chart component for App Inventor that allows you to c
 
 ## 📝 Specifications
 * **
-💾 **Size:** 25.68 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-02-27 timezone="Asia/Calcutta"]
+💾 **Size:** 25.68 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-02-27 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)
-
+<br>
+<br>
+**Paid** Price - 2💲 USD.
+  INR - 175rs.<br>
+**Telegram:** [here](https://t.me/techhamara91)<br>
+**Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
+<br>
+## Buy In PayPal
+  [💛paypal here](https://www.paypal.com/ncp/payment/P6VTC9YXC5YFG)
+<br><br>
 ## <kbd>Events:</kbd>
 **XChart** has total 7 events.
-
+<br>
 ![ClickBlock](https://github.com/user-attachments/assets/b2606ed2-8036-494e-b99b-c00610312a04)
 ### 💛 Click
 Triggered when the radar chart is clicked.
@@ -60,7 +69,7 @@ Triggered when a region is clicked.
 
 ## <kbd>Methods:</kbd>
 **XChart** has total 3 methods.
-
+<br>
 ![CreateBlock](https://github.com/user-attachments/assets/f0afc293-b34e-49b3-a3b5-b563d19e7f7e)
 ### 💜 Create
 Creates a radar chart inside the specified arrangement. The arrangement must be a HorizontalArrangement or VerticalArrangement component.
@@ -88,7 +97,7 @@ Configures a custom gradient shader for regions. Provide lists of colors and pos
 
 ## <kbd>Setters:</kbd>
 **XChart** has total 33 setter properties.
-
+<br>
 ![SetPercentsBlock](https://github.com/user-attachments/assets/015f3522-328d-4318-893e-1f4c5f302828)
 ### 💚 SetPercents
 Sets the values for each data point as percentages between 0.0 and 1.0. The list length must match the number of sides.
