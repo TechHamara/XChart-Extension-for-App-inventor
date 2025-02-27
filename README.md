@@ -15,9 +15,8 @@ XChart is a powerful radar chart component for App Inventor that allows you to c
 📅 **Updated On:** [date=2025-02-27 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)
 <br>
-<br>
-**Paid** Price - 2💲 USD.
-  INR - 175rs.<br>
+**Paid** Price - 2💲 USD.<br>
+**INR** - 175rs.<br>
 **Telegram:** [here](https://t.me/techhamara91)<br>
 **Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
 <br>
