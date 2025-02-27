@@ -28,7 +28,7 @@ XChart is a powerful radar chart component for App Inventor that allows you to c
 
 ## Demo Soon
 
-https://github.com/user-attachments/assets/24c8b066-3a52-4d49-9e9e-01ac41ed6156
+![10d0f4fe-6002-4d66-bc95-75324e0bca4f.gif](https://github.com/user-attachments/assets/58795a00-13cf-4707-aa98-674432478590)
 
 ## <kbd>Events:</kbd>
 **XChart** has total 7 events.
