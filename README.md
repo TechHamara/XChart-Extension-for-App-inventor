@@ -23,6 +23,9 @@ XChart is a powerful radar chart component for App Inventor that allows you to c
 ## Buy In PayPal
   [💛paypal here](https://www.paypal.com/ncp/payment/P6VTC9YXC5YFG)
 <br><br>
+## Demo Soon
+
+
 ## <kbd>Events:</kbd>
 **XChart** has total 7 events.
 <br>
