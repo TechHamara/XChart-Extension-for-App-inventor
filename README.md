@@ -22,6 +22,8 @@ XChart is a powerful radar chart component for App Inventor that allows you to c
 <br>
 ## Buy In PayPal
   [💛paypal here](https://www.paypal.com/ncp/payment/P6VTC9YXC5YFG)
+## Lib used
+  [here](https://github.com/hust201010701/XRadarView)
 <br><br>
 ## Screen shot 
    ![Screenshot_2025-02-27-14-35-43-965_appinventor.ai_Techhamara91.xchart.jpg](https://github.com/user-attachments/assets/8b0ef5bb-8e3d-4df9-82c3-2a59c9fc8675)
